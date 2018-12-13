@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entities.eleitor&apos; to &apos;Eleitor&apos;&#x0D;&#x0A;- Original project: &apos;test2&apos;&#x0D;&#x0A;- Original element: &apos;entities.eleitor&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Eleitor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;eleitor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entities{eleitor.java[eleitor" matchStrategy="1" name="Eleitor" qualified="false" references="true" similarDeclarations="false" stamp="1539955855983" textual="false" version="1.0"/>
+</session>
